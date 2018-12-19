@@ -1,0 +1,18 @@
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.exe.config
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.pdb
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.Properties.Resources.resources
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.pdb
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\bin\Debug\test.exe.config
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\bin\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\bin\Debug\test.pdb
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.Properties.Resources.resources
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.csproj.GenerateResource.cache
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\firstrepo\Somewhat of internal counter\obj\Debug\test.pdb

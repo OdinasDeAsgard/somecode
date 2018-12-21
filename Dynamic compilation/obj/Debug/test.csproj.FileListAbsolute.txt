@@ -1,0 +1,7 @@
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.exe.config
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\test\bin\Debug\test.pdb
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.exe
+C:\Users\skypis\Desktop\Viskas\test\obj\Debug\test.pdb

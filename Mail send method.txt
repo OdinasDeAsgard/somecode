@@ -1,0 +1,17 @@
+static void SendMail(string subject, string bodyMessage, string attachementPath = "")
+        {
+
+            var adress = "name123@gmail.com";
+            var pass = "mailPassword";
+
+            SmtpClient client = new SmtpClient("smtp.gmail.com", 587); // 587 is gmail's port.
+            client.UseDefaultCredentials = false; // Don't send pc creds.
+            client.EnableSsl = true;
+            client.Credentials = new System.Net.NetworkCredential(adress, pass);
+
+            MailMessage message = new MailMessage(adress, adress, subject, bodyMessage);
+            if (attachementPath != "")
+                message.Attachments.Add(new Attachment(attachementPath));
+
+            client.Send(message);
+        }
